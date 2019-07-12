@@ -17,7 +17,7 @@
                BlueprintIdentifier = "265586EC1EF88770001914FC"
                BuildableName = "sampleapp-ios-swift.app"
                BlueprintName = "sampleapp-ios-swift"
-               ReferencedContainer = "container:sample-ios-swift.xcodeproj">
+               ReferencedContainer = "container:sampleapp-ios-swift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -80,16 +80,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "265586EC1EF88770001914FC"
             BuildableName = "sampleapp-ios-swift.app"
             BlueprintName = "sampleapp-ios-swift"
-            ReferencedContainer = "container:sample-ios-swift.xcodeproj">
+            ReferencedContainer = "container:sampleapp-ios-swift.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
